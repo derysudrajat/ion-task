@@ -1,0 +1,23 @@
+ion-content ion-toolbar {
+    --background: translucent;
+  }
+  
+  ion-content {
+    .text-center{  
+      margin-top: 10px;
+      margin-bottom: 5px;
+      text-align: center
+    }
+    .text-title{
+      font-size: xx-large;
+    }
+    .img-avatar{
+      width: 200px;
+      height: 200px;
+      margin: 0 auto;
+      left: 0px;
+      right: 0px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  }
