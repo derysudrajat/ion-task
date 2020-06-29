@@ -30,6 +30,8 @@ const config = {
 * Run `ionic serve -l`
 
 ### Result
-<img src="resources/sc1.png" width="300"> <img src="resources/sc2.png" width="300"> <img src="resources/sc3.png" width="300">
+<img src="resources/sc1.png" width="300"> <img src="resources/sc2.png" width="300"> 
 
-<img src="resources/sc4.png" width="300"> <img src="resources/sc5.png" width="300"> <img src="resources/sc6.png" width="300">
+<img src="resources/sc3.png" width="300"> <img src="resources/sc4.png" width="300"> 
+
+<img src="resources/sc5.png" width="300"> <img src="resources/sc6.png" width="300">
