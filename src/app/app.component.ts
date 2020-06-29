@@ -6,11 +6,11 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: 'AIzaSyAM6xe45mE-iyxgkrqNvmpw2bBDCJlRULA',
-  authDomain: 'ionic-trevo.firebaseapp.com',
-  databaseURL: 'https://ionic-trevo.firebaseio.com/',
-  projectId: 'ionic-trevo',
-  storageBucket: 'gs://ionic-trevo.appspot.com',
+  apiKey: 'YOUR_APIKEY',
+  authDomain: 'YOUR_AUTH_DOMAIN',
+  databaseURL: 'YOUR_DATABASE_URL',
+  projectId: 'YOUR_PROJECT_ID',
+  storageBucket: 'YOUR_STORAGE_BUCKET',
 };
 
 @Component({
